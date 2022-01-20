@@ -1,2 +1,2 @@
 # food-photos-are-great
-first website online
+first website online as a demonstration only
